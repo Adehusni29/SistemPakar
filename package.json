@@ -1,6 +1,7 @@
 {
-  "name": "my-react-app",
-  "version": "0.0.1",
+  "name": "sispakadehusni",
+  "version": "1.0.0",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,9 +13,6 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.11",
     "vite": "^4.4.0"
   }
 }
